@@ -88,7 +88,7 @@ This lab demonstrates how to set up and use **SonarQube** for automatic static c
 
 
 # Lab 12: Study and Analyse Container Orchestration using Kubernetes
-📁 [Open Lab 12](./lab10)
+📁 [Open Lab 12](./lab12)
 
 
 Learn why Kubernetes is used, its basic concepts, and how to deploy, scale, and fix applications using Kubernetes commands.
